@@ -21,7 +21,7 @@ I stopped training when the average rewards over the latest 100 episodes reached
 
 ---
 
-### References
+### Resources
 
 * Richard Sutton's [book](http://incompleteideas.net/book/the-book-2nd.html) 
 * Andrew Ng's Reinforcement Learning [course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) in the coursera Machine Learning specialization
