@@ -10,13 +10,13 @@ I stopped training when the average rewards over the latest 100 episodes reached
 **After 100 episodes:**
 
 <div align="center">
-    <video src='./assets/lunar_lander_100.mp4' controls></video>
+    <video src='https://github.com/user-attachments/assets/9d145591-24a9-4a5a-9903-4472dfd4132b' width="600" controls></video>
 </div>
 
 
 **After training completed:**
 <div align="center">
-    <video src='./assets/lunar_lander.mp4' controls></video>
+    <video src='https://github.com/user-attachments/assets/61fb8fae-1a10-4667-a786-59ac1ab1f505' width="600" controls></video>
 </div>
 
 ---
