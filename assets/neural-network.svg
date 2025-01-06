@@ -1,0 +1,41 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="75" r="15" fill="#6BA5DE" />
+    <circle cx="50" cy="150" r="15" fill="#6BA5DE" />
+    <circle cx="50" cy="225" r="15" fill="#6BA5DE" />
+    
+    <circle cx="200" cy="50" r="15" fill="#FF9E6E" />
+    <circle cx="200" cy="150" r="15" fill="#FF9E6E" />
+    <circle cx="200" cy="250" r="15" fill="#FF9E6E" />
+    
+    <circle cx="350" cy="100" r="15" fill="#86DE6B" />
+    <circle cx="350" cy="200" r="15" fill="#86DE6B" />
+    
+    <g stroke="#CCCCCC" stroke-width="1">
+        <line x1="65" y1="75" x2="185" y2="50" />
+        <line x1="65" y1="75" x2="185" y2="150" />
+        <line x1="65" y1="75" x2="185" y2="250" />
+        
+        <line x1="65" y1="150" x2="185" y2="50" />
+        <line x1="65" y1="150" x2="185" y2="150" />
+        <line x1="65" y1="150" x2="185" y2="250" />
+        
+        <line x1="65" y1="225" x2="185" y2="50" />
+        <line x1="65" y1="225" x2="185" y2="150" />
+        <line x1="65" y1="225" x2="185" y2="250" />
+    </g>
+    
+    <g stroke="#CCCCCC" stroke-width="1">
+        <line x1="215" y1="50" x2="335" y2="100" />
+        <line x1="215" y1="50" x2="335" y2="200" />
+        
+        <line x1="215" y1="150" x2="335" y2="100" />
+        <line x1="215" y1="150" x2="335" y2="200" />
+        
+        <line x1="215" y1="250" x2="335" y2="100" />
+        <line x1="215" y1="250" x2="335" y2="200" />
+    </g>
+    
+    <text x="50" y="280" text-anchor="middle" fill="#666">Input</text>
+    <text x="200" y="280" text-anchor="middle" fill="#666">Hidden</text>
+    <text x="350" y="280" text-anchor="middle" fill="#666">Output</text>
+</svg>
