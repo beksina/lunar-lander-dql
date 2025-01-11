@@ -5,7 +5,7 @@ This repository displays a solution to the lunar lander problem from the gymnasi
 ### Results 
 ---
 
-I stopped training when the average rewards over the latest 100 episodes reached +200, which took 1764 episodes. 
+Training was stopped when the average rewards over the latest 100 episodes reached +200, which took 1764 episodes. 
 
 **After 100 episodes:**
 
